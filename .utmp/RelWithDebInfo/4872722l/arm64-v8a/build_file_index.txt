@@ -1,0 +1,2 @@
+C:\Users\Asus\Downloads\tanchernlynn_all\tanchernlynn_all\tanchernlynn_ARproject\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\Asus\Downloads\tanchernlynn_all\tanchernlynn_all\tanchernlynn_ARproject\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

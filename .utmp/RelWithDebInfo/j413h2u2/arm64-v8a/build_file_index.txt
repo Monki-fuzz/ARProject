@@ -1,0 +1,2 @@
+C:\Users\Asus\Desktop\AR Marker Project (4000)\choyeinjun_ARproject\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\Asus\Desktop\AR Marker Project (4000)\choyeinjun_ARproject\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
