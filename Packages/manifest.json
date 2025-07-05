@@ -1,4 +1,13 @@
 {
+  "scopedRegistries": [
+    {
+      "name": "iBicha",
+      "url": "https://registry.npmjs.com",
+      "scopes": [
+        "com.ibicha"
+      ]
+    }
+  ],
   "dependencies": {
     "com.unity.collab-proxy": "2.7.1",
     "com.unity.feature.development": "1.0.2",

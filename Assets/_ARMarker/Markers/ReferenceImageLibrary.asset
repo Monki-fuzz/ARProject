@@ -21,29 +21,49 @@ MonoBehaviour:
       m_GuidLow: 5353411117914200091
       m_GuidHigh: 12601842086634881958
     m_SerializedTextureGuid:
-      m_GuidLow: 4698568639331200989
-      m_GuidHigh: 7593170864539365721
+      m_GuidLow: 8328358883848232907
+      m_GuidHigh: 15405764429487685432
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
-    m_Name: arduino_marker
+    m_Name: ArduinoPrefab
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
       m_GuidLow: 5421834552719284569
       m_GuidHigh: 1594878929094689685
     m_SerializedTextureGuid:
-      m_GuidLow: 9724447526751757407
-      m_GuidHigh: 191173093758341051
+      m_GuidLow: 496797369663982879
+      m_GuidHigh: 9243195398680085080
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
-    m_Name: motor_marker
+    m_Name: DCGearMotorPrefab
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
       m_GuidLow: 4933701607253354000
       m_GuidHigh: 18239316172960876960
     m_SerializedTextureGuid:
-      m_GuidLow: 15043195386986977452
-      m_GuidHigh: 7744081106925790970
+      m_GuidLow: 13255285369829355142
+      m_GuidHigh: 7696820213837601208
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
-    m_Name: sensor_marker
+    m_Name: IRSensorPrefab
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5428749918869615650
+      m_GuidHigh: 8616916689550301850
+    m_SerializedTextureGuid:
+      m_GuidLow: 2095345337318964586
+      m_GuidHigh: 1929386428503687274
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: HBridgePrefab
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4843706121440407820
+      m_GuidHigh: 11646478476903533461
+    m_SerializedTextureGuid:
+      m_GuidLow: 8378092312669206982
+      m_GuidHigh: 9731618975308167289
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: PowerSupplyPrefab
     m_Texture: {fileID: 0}

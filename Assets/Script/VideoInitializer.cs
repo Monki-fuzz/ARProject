@@ -26,8 +26,11 @@ public class VideoScreenLookAtCamera : MonoBehaviour
         if (videoScreen != null && mainCamera != null)
         {
             Vector3 lookDirection = mainCamera.transform.position - videoScreen.transform.position;
-            lookDirection.y = -90; // Lock vertical rotation
-            videoScreen.transform.rotation = Quaternion.LookRotation(lookDirection);
+            lookDirection.y = 0; // Lock vertical rotation
+
+            Quaternion lookRotation = Quaternion.LookRotation(lookDirection);
+            videoScreen.transform.rotation = lookRotation * Quaternion.Euler(0, 180f, 0); // Rotate 180° around Y-axis
         }
     }
+
 }
